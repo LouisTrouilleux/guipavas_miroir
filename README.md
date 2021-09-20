@@ -1,2 +1,2 @@
 # guipavas_miroir
-site miroir du site du vignoble guipavas, entrainement structure PHP/MVC, HTML,CSS
+site miroir du site du vignoble guipavas, entrainement structure PHP/MVC, formulaires JS/PHP, HTML,CSS
